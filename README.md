@@ -1,6 +1,8 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+![image]([url=https://www.hizliresim.com/8fixcei][img]https://i.hizliresim.com/8fixcei.png[/img][/url])
+
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## Installation
@@ -15,6 +17,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 
 ```cd kodluyoruzilkrepo```
+
 ```code .```
 ## Contributing
 
